@@ -1,2 +1,2 @@
-testando versionamento na feature
+testando versionamento na HOTFIX
 # gitflow-test
